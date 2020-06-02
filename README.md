@@ -40,11 +40,21 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 - [ ] Explain the difference between `Relational Databases` and `SQL`.
 
+  Relational databases are a set of tables used to store data. SQL is a query language used to communicate with a relational database management systems
+
 - [ ] Why do tables need a `primary key`?
+
+Primary keys are needed to identify each record in the database.
+
 
 - [ ] What is the name given to a table column that references the primary key on another table.
 
+Intermediary Table
+
 - [ ] What do we need in order to have a _many to many_ relationship between two tables.
+
+You need an intermediary table that holds foreign keys that reference a primary key on the related tables.
+
 
 ## Minimum Viable Product
 
